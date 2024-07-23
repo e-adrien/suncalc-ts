@@ -45,16 +45,16 @@
     "@tsconfig/next": "^2.0.3",
     "@types/mocha": "^10.0.7",
     "@types/node": "^20.14.11",
-    "@typescript-eslint/eslint-plugin": "^7.16.1",
-    "@typescript-eslint/parser": "^7.16.1",
+    "@typescript-eslint/eslint-plugin": "^7.17.0",
+    "@typescript-eslint/parser": "^7.17.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
-    "mocha": "^10.6.0",
+    "mocha": "^10.7.0",
     "prettier": "^3.3.3",
     "ts-loader": "^9.5.1",
     "ts-node": "^10.9.2",
-    "typedoc": "^0.26.4",
-    "typescript": "^5.5.3"
+    "typedoc": "^0.26.5",
+    "typescript": "^5.5.4"
   },
   "packageManager": "yarn@4.3.1"
 }
