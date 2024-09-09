@@ -42,18 +42,18 @@
     "illumination"
   ],
   "devDependencies": {
-    "@eslint/js": "^9.9.1",
+    "@eslint/js": "^9.10.0",
     "@tsconfig/next": "^2.0.3",
     "@types/mocha": "^10.0.7",
     "@types/node": "^20.16.5",
-    "eslint": "^9.9.1",
+    "eslint": "^9.10.0",
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.9.0",
     "mocha": "^10.7.3",
     "prettier": "^3.3.3",
     "ts-loader": "^9.5.1",
     "ts-node": "^10.9.2",
-    "typedoc": "^0.26.6",
+    "typedoc": "^0.26.7",
     "typescript": "^5.5.4",
     "typescript-eslint": "8.4.0"
   },
