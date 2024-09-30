@@ -42,11 +42,11 @@
     "illumination"
   ],
   "devDependencies": {
-    "@eslint/js": "^9.10.0",
+    "@eslint/js": "^9.11.1",
     "@tsconfig/next": "^2.0.3",
     "@types/mocha": "^10.0.8",
-    "@types/node": "^20.16.5",
-    "eslint": "^9.10.0",
+    "@types/node": "^20.16.10",
+    "eslint": "^9.11.1",
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.9.0",
     "mocha": "^10.7.3",
@@ -55,7 +55,7 @@
     "ts-node": "^10.9.2",
     "typedoc": "^0.26.7",
     "typescript": "^5.6.2",
-    "typescript-eslint": "8.5.0"
+    "typescript-eslint": "8.7.0"
   },
   "packageManager": "yarn@4.5.0"
 }
