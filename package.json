@@ -45,17 +45,17 @@
     "@eslint/js": "^9.13.0",
     "@tsconfig/next": "^2.0.3",
     "@types/mocha": "^10.0.9",
-    "@types/node": "^22.8.2",
+    "@types/node": "^22.8.4",
     "eslint": "^9.13.0",
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.11.0",
-    "mocha": "^10.7.3",
+    "mocha": "^10.8.2",
     "prettier": "^3.3.3",
     "ts-loader": "^9.5.1",
     "ts-node": "^10.9.2",
     "typedoc": "^0.26.10",
     "typescript": "^5.6.3",
-    "typescript-eslint": "8.12.1"
+    "typescript-eslint": "8.12.2"
   },
   "packageManager": "yarn@4.5.1"
 }
