@@ -4,6 +4,10 @@ on:
   release:
     types: [created]
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   publish:
     name: Publish Package to npmjs
